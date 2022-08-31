@@ -2,7 +2,7 @@
 
 ### Day 1: August 31, 2022(Wednesday)
 
-**Today's Progress**: Revise fundamentals and Collections class in Java
+**Today's Progress**: Revise Basic java concepts and take look the collections class in java
 
 **Thoughts**: 
 
