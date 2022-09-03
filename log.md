@@ -16,13 +16,13 @@
 
 **Today's Progress**: Learn about how to solve recurrence relation and find TC
 
-**Thoughts**: Feel confidence after solving some relation and find Time Complexity for those recurrence methods.
+**Thoughts**: Feel confidence after solving some recurrence relation and find Time Complexity for those recurrence methods.
 
 ### Day 4: September 03, 2022(Saturday)
 
 **Today's Progress**: Learn about Space Complexity
 
-**Thoughts**: Today I except learn some more concept but max of my time spend in Household work.
+**Thoughts**: Today I invest 30m only for learning DSA concept but in upcomming days I push myself to spend at least 1hr in dsa 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
