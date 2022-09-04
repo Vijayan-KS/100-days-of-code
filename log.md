@@ -24,6 +24,14 @@
 
 **Thoughts**: Today I invest 30m only for learning DSA concept but in upcomming days I push myself to spend at least 1hr in dsa 
 
+### Day 5: September 04, 2022(Sunday)
+
+**Today's Progress**: Learn some basic Math concept, learn about Sieve & Elucidean algorithm.
+                      Learn an approach how to solve Trailing Zeros in Factorial problem
+                      Solve find Median of given ordered array.
+
+**Thoughts**: Sunday 1st half I complete spend for DSA 2nd half take a break
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
