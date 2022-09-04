@@ -26,9 +26,12 @@
 
 ### Day 5: September 04, 2022(Sunday)
 
-**Today's Progress**: Learn some basic Math concept, learn about Sieve & Elucidean algorithm.
-                      Learn an approach how to solve Trailing Zeros in Factorial problem
-                      Solve find Median of given ordered array.
+**Today's Progress**: Learn about, 
+  1. Some basic Math concept  
+  2. Sieve of Eratosthenes Algorithm    
+  3. Euclidean Algorithm  
+  
+**Solve**: Find Median of given ordered array
 
 **Thoughts**: Sunday 1st half I complete spend for DSA 2nd half take a break
 
