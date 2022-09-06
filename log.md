@@ -35,6 +35,16 @@
 
 **Thoughts**: Sunday 1st half I complete spend for DSA 2nd half take a break
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 6: September 05, 2022(Monday)
+
+**Today's Progress**: started leetcode study plan Programming skills 1(solve day1 problem) + learn about how to solve prime factor problem in Math chapter
+
+**Thoughts**: monday is quite well
+
+### Day 7: September 06, 2022(Tuesday)
+
+**Today's Progress**: solve day2 problem in leetcode study plan + complete 2.10, 2.12, 2.13 tutorial in GFG DSA self paced course(Math problems)
+
+**Thoughts**: Tuesday have more time so I work on DSA + allocate some time for Movie time
+
+
