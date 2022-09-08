@@ -47,4 +47,10 @@
 
 **Thoughts**: Tuesday have more time so I work on DSA + allocate some time for Movie time
 
+### Day 7: September 07, 2022(Wednesday)
+
+**Today's Progress**: solve day3 problem in leetcode study plan + solve 2 GFG math related problems
+
+**Thoughts**: Optimizing code is not that much easy 
+
 
