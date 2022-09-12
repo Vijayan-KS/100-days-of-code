@@ -69,7 +69,7 @@
 
 ### Day 11: September 10, 2022(Saturday)
 
-**Today's Progress**: **Chapter 3: Bit Magic** Learn about bitwise operators
+**Today's Progress**: **📍Chapter 3: Bit Magic** Learn about bitwise operators
 
 **Thoughts**: Bit always ultimate, using bit we perform lot of approach
 
