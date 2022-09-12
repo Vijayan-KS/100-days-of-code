@@ -47,10 +47,42 @@
 
 **Thoughts**: Tuesday have more time so I work on DSA + allocate some time for Movie time
 
-### Day 7: September 07, 2022(Wednesday)
+### Day 8: September 07, 2022(Wednesday)
 
 **Today's Progress**: solve day3 problem in leetcode study plan + solve 2 GFG math related problems
 
 **Thoughts**: Optimizing code is not that much easy 
 
+### Day 9: September 08, 2022(Thursday)
 
+**Today's Progress**: Solve day4 2/4 problem in leetcode programming L1 study plan
+
+**Thoughts**: Today plan to start Bit manupulation concept but not started yet and loose the leetcode study plan strike
+
+### Day 10: September 09, 2022(Friday)
+
+**Today's Progress**: solve 2 leetcode problem
+1. Happy Number
+2. Find repeated char in string
+
+**Thoughts**: Once I covered the array concept start to participate leetcode contest
+
+### Day 11: September 10, 2022(Saturday)
+
+**Today's Progress**: **Chapter 3: Bit Magic ** Learn about bitwise operators
+
+**Thoughts**: Bit always ultimate, using bit we perform lot of approach
+
+### Day 12: September 11, 2022(Sunday)
+
+**Today's Progress**: Solve some bit based problem and learn about,
+1. Brains Kerningam's algorithm
+2. Properties of XOR
+
+**Thoughts**: Today first half of I cover this progress after that goto boatting in pichavaram
+
+### Day 13: September 12, 2022(Monday)
+
+**Today's Progress**: solve 2(easy) + 1(medium) leetcode problem that is bit based and learn about effective approach in 2 GFG problem
+
+**Thoughts**: Well productive day and leetcode medium problem take 2.5hrs to complete
