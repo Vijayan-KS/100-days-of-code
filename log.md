@@ -86,3 +86,21 @@
 **Today's Progress**: solve 2(easy) + 1(medium) leetcode problem that is bit based and learn about effective approach in 2 GFG problem
 
 **Thoughts**: Well productive day and leetcode medium problem take 2.5hrs to complete
+
+### Day 14: September 12, 2022(Tuesday)
+
+**Today's Progress**: Solve 1 bit problem in GFG  also try to solve, 'Max AND value pair in array' problem but get only Brute force, optimization is hard to understand for me
+
+**Thoughts**: Max AND problem really take too much of time to solve and watch solu tutorial and understand the approach yep, atlast got the idea behind that
+
+### Day 15: September 12, 2022(Wednesday)
+
+**Today's Progress**: **Chapter4: Recursion** -- learn how func work, application of recursion, what is tile recursion and solve some basic problem to understand the recursion
+
+**Thoughts**: Happy😊 crossed 15days of code
+
+### Day 16: September 12, 2022(Thursday)
+
+**Today's Progress**: 
+
+**Thoughts**: 
