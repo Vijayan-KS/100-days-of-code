@@ -95,12 +95,15 @@
 
 ### Day 15: September 12, 2022(Wednesday)
 
-**Today's Progress**: **Chapter4: Recursion** -- learn how func work, application of recursion, what is tile recursion and solve some basic problem to understand the recursion
+**Today's Progress**: **📍Chapter4: Recursion** -- learn how func work, application of recursion, what is tile recursion and solve some basic problem to understand the recursion
 
 **Thoughts**: Happy😊 crossed 15days of code
 
 ### Day 16: September 12, 2022(Thursday)
 
-**Today's Progress**: 
+**Today's Progress**: Learn about how to approach 
+1. sum of digit using recursion
+2. rope cuttig problem
+3. palindrome check using recursion
 
-**Thoughts**: 
+**Thoughts**: I need another brain, think to solve recursive problem without note and pen it is not possible at the beggining
