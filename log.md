@@ -107,3 +107,16 @@
 3. palindrome check using recursion
 
 **Thoughts**: I need another brain, think to solve recursive problem without note and pen it is not possible at the beggining
+
+### Day 17: September 16, 2022(Friday)
+
+**Today's Progress**: Help my friend java assessment. I implement 2d arraylist to store user data and implement linear search algo for searching the user
+
+**Thoughts**: That user application comes really good and he is satisfied with my code.
+
+### Day 18: September 17, 2022(Saturday)
+
+**Today's Progress**: Learn about how to approach 
+
+
+**Thoughts**:
