@@ -116,7 +116,18 @@
 
 ### Day 18: September 17, 2022(Saturday)
 
-**Today's Progress**: Learn about how to approach 
+**Today's Progress**: Learn about how to approach Tower of Hanoi and Print subset of a string in recursion
 
+**Thoughts**: now feel how there are think like this, Just 4 lines of code do a lot of things in recursion😵
 
-**Thoughts**:
+### Day 19: September 18, 2022(Sunday)
+
+**Today's Progress**: Learn about how to approach JOsephus problem recursion and participate Christ university coding conest in GFG
+
+**Thoughts**: All contest problem is array based but i solve only solve 1 out of 4.  NEed to practice more
+
+### Day 20: September 19, 2022(Monday)
+
+**Today's Progress**: Learn about how to approach subset sum problem and printing all palindrome in recursive way
+
+**Thoughts**: Thinking in recursive way that is a great challenge over to CP
