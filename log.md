@@ -131,3 +131,38 @@
 **Today's Progress**: Learn about how to approach subset sum problem and printing all palindrome in recursive way
 
 **Thoughts**: Thinking in recursive way that is a great challenge over to CP
+
+### Day 21: September 20, 2022(Tuesday)
+
+**Today's Progress**: Solve recursion based easy prb,
+1. Print 1 to n
+2. Sum of digits of a number
+3. Count total digits in a no.
+4. Digital roots
+5. Fibonacci using recursion
+
+**Thoughts**: This problem help to understand the recursion
+
+### Day 22: September 21, 2022(Wednesday)
+
+**Today's Progress**: Try to solve Magic Number problem in GFG but bot get the logic
+
+**Thoughts**: This problem is tagged Microsoft easy but it very challenging to find the solution
+
+### Day 23: September 22, 2022(Thrusday)
+
+**Today's Progress**: Solve Magic Number
+
+**Thoughts**: Finally see the editorial solution and get the logic for this problem
+
+### Day 24: September 24, 2022(Saturday)
+
+**Today's Progress**: solve gfg potd(bit based problem) and solve Tower of Hanoi
+
+**Thoughts**: decide to boost up my progress need to work more time in DSA
+
+### Day 25: September 25, 2022(Sunday)
+
+**Today's Progress**:
+
+**Thoughts**:
