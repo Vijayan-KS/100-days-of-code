@@ -217,7 +217,7 @@
 
 **Today's Progress**: 
 
-**Thoughts**: Gear up my progress🚀 only 87 days left I need to learn more things before this end
+**Thoughts**: Gear up my progress🚀 only 87 days left I need to learn more things before this year end
 
 
 
