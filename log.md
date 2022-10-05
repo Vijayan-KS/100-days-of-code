@@ -163,6 +163,61 @@
 
 ### Day 25: September 25, 2022(Sunday)
 
-**Today's Progress**:
+**Today's Progress**: 1. Participate gfg interview series contest solved 0/3 openly says I'm not understand the qns and Learn about why we take 10^9+7 for very large integer
 
-**Thoughts**:
+**Thoughts**: need to take more practice
+
+### Day 26: September 26, 2022(Monday)
+
+**Today's Progress**: 
+1. Solve 2 #codeforce problem
+2. Solve #gfg POTD and find power of number using recursion
+
+
+### Day 27: September 27, 2022(Tuesday)
+
+**Today's Progress**: Solve 1 #codeforce problem and solve 1 #gfg recursion problem find subsequence of given String
+
+
+### Day 28: September 28, 2022(Wednesday)
+
+**Today's Progress**: Solve 1 #codeforce & #geeksforgeeks POTD problem and Revise recursion concept 
+
+
+### Day 29: September 29, 2022(thursday)
+
+**Today's Progress**: Solve #gfg potd and 1 #codeforce problem and Revising recursion concepts
+
+
+### Day 30: September 30, 2022(Friday)
+
+**Today's Progress**: Revise recursion concept and Participate codeforce global round 22
+
+**Thoughts**: Not solve any problem in codeforce contest even the 800 problem logic also little tricky not get it.
+
+### Day 31: October 3, 2022(Monday)
+
+**Today's Progress**: 📌Started array concept
+
+1. learn about, what is array
+2. array type
+3. array operations(insert, delete, search)
+
+**Thoughts**: after one month now started the array concept feel happy crossed 30days
+
+### Day 32: October 4, 2022(Tuesday)
+
+**Today's Progress**: Solve,
+1. Find 2nd largest ele in array
+2. Practice #Lex platform problem
+
+**Thoughts**: realise only 90 days left to end this year 
+
+### Day 33: October 5, 2022(Wednesday)
+
+**Today's Progress**: 
+
+**Thoughts**: Gear up my progress🚀 only 87 days left I need to learn more things before this end
+
+
+
