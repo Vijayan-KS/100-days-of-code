@@ -215,9 +215,52 @@
 
 ### Day 33: October 5, 2022(Wednesday)
 
-**Today's Progress**: 
+**Today's Progress**: Solve,
+1. Reverse an array
+2. Remove duplicate ele in sorted array
+3. Check array is sorted
 
 **Thoughts**: Gear up my progress🚀 only 87 days left I need to learn more things before this year end
 
+### Day 34: October 6, 2022(Thursday)
+
+**Today's Progress**: Solve,
+1. Rotate arr in one ele. left
+2. Rotate arr in D ele. left
+3. Leader in an array
+4. Move zero to end
+
+### Day 35: October 7, 2022(Friay)
+
+**Today's Progress**: Solve 3 array problems in GFG
+
+
+### Day 36: October 8, 2022(Saturday)
+
+**Today's Progress**: Solve 3 problem in #CodeChef
+
+### Day 37: October 10, 2022(Monday)
+
+**Today's Progress**: Solve max sum after k operation in geeksforgeeks.  
+Learn effective approach
+
+1. Stock buy and sell
+2. Trapping rain water problem
+
+### Day 38: October 11, 2022(Tuesday)
+
+**Today's Progress**: Solve
+1. max 1's occurance in binary #array
+2. Max sum of subarray
+
+### Day 39: October 12, 2022(Wednesday)
+
+**Today's Progress**: participate codechef contest and solve 4 problem
+
+### Day 40: October 15, 2022(Saturday)
+
+**Today's Progress**: 
+
+**Thoughts**: Only 2.5m left for yearend I decide to improve my progress and I decide to spend 75% of time(working time) to improvement
 
 
