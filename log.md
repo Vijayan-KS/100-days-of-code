@@ -261,6 +261,6 @@ Learn effective approach
 
 **Today's Progress**: 
 
-**Thoughts**: Only 2.5m left for yearend I decide to improve my progress and I decide to spend 75% of time(working time) to improvement
+**Thoughts**: Only 2.5m left for yearend I decide to improve my progress.
 
 
