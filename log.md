@@ -257,10 +257,11 @@ Learn effective approach
 
 **Today's Progress**: participate codechef contest and solve 4 problem
 
-### Day 40: October 15, 2022(Saturday)
+### Day 40: October 15, 2022(Sunday)
 
-**Today's Progress**: 
+**Today's Progress**: Solve 1 subarray problem in #GFG using Kadane's algorithm.
+Participate leetcode contest 1st time, solve 3 out of 4.
 
-**Thoughts**: Only 2.5m left for yearend I decide to improve my progress.
+**Thoughts**: Feel happy to solve 3problems but all three are array based 
 
 
