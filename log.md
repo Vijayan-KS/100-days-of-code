@@ -264,4 +264,25 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 **Thoughts**: Feel happy to solve 3problems but all three are array based 
 
+### Day 41: October 19, 2022(Wednesday)
+
+**Today's Progress**: Learn an approach of max circular sub array problem in #gfg and solve 3/8 problem in #codechef starters 
+
+**Thoughts**: feel difficulty in subarray and string problem  plan to upsolve this problem
+
+### Day 42: October 21, 2022(Friday)
+
+**Today's Progress**: Learn an approach of,
+1. Majority element in array
+2. Min grp flip to make a same arr.
+
+**Thoughts**: without some algorithm knowledge not able to get effective solution of this problem
+
+### Day 43: October 22, 2022(Saturday)
+
+**Today's Progress**: Attend Power programmer assessement
+
+**Thoughts**: Feel little assame bcz not even solve array problem in 100% in 3hr exam. Only solve 21% array problem other 2 is Stack and Math concept.
+
+
 
