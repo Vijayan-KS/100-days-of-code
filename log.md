@@ -294,8 +294,16 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 ### Day 45: October 27, 2022(Thrusday)
 
+**Today's Progress**: upsolve wrong submitted problem in yesterday contest and solve some array based problems
+
+**Thoughts**: 2nd half of the day not feel well but 1st half have good progress in dsa
+
+### Day 46: October 28, 2022(Friday)
+
 **Today's Progress**: 
 
 **Thoughts**: 
+
+
 
 
