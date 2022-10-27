@@ -284,5 +284,18 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 **Thoughts**: Feel little assame bcz not even solve array problem in 100% in 3hr exam. Only solve 21% array problem other 2 is Stack and Math concept.
 
+### Day 44: October 26, 2022(Wednesday)
+
+**Today's Progress**: Participate #CodeChef START62D solved first 4 problems out of 9
+* Learn about sliding window technique
+* Solve some prb based on SWT
+
+**Thoughts**: Committed to do only DSA for next 2month
+
+### Day 45: October 27, 2022(Thrusday)
+
+**Today's Progress**: 
+
+**Thoughts**: 
 
 
