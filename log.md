@@ -298,11 +298,11 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 **Thoughts**: 2nd half of the day not feel well but 1st half have good progress in dsa
 
-### Day 46: October 28, 2022(Friday)
+### Day 46: October 22, 2023(Sunday)
 
-**Today's Progress**: 
+**Today's Progress**: Participate GFG weekly contest solved 2 out of 4, Upsolved 1prb 
 
-**Thoughts**: 
+**Thoughts**: I thoughts to continue the challenge again and mark as completed. Game start now.
 
 
 
