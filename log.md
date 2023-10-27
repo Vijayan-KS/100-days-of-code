@@ -298,20 +298,11 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 **Thoughts**: 2nd half of the day not feel well but 1st half have good progress in dsa
 
-### Day 46: October 22, 2023(Sunday)
+### Day 46: October 27, 2023(Friday)
 
-**Today's Progress**: Participate GFG weekly contest solved 2 out of 4, Upsolved 1prb 
+**Today's Progress**: solved 3 problems 
 
-**Thoughts**: I thoughts to continue the challenge again and mark as completed. Game start now.
-
-### Day 47: October 23, 2023(Monday)
-
-**Today's Progress**: solved 
-1. power of 4
-2. 1200 Tree problem in Codeforce
-
-**Thoughts**: thinking about to solve 2 problem on every day.
-
+**Thoughts**: I restarted the progress 
 
 
 
