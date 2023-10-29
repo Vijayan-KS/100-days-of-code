@@ -304,5 +304,22 @@ Participate leetcode contest 1st time, solve 3 out of 4.
 
 **Thoughts**: I restarted the progress 
 
+### Day 47: October 28, 2023(Saturday)
+
+**Today's Progress**: solved 2 problems 
+
+**Thoughts**: keep solve more problems on every single day
+
+### Day 48: October 29, 2023(Sunday)
+
+**Today's Progress**: solved 3 problems 
+
+**Thoughts**: take CP certification in LEX platform but due to compiler issue not able to submit.
+
+### Day 49: October 30, 2023(Monday)
+
+**Today's Progress**: 
+
+**Thoughts**:
 
 
