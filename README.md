@@ -3,7 +3,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](log.md) --> failed 
+* [Log - click here to see my progress](log_2023.md) --> inProgress
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
