@@ -1,7 +1,7 @@
-# 100 Days Of Code - Log
+# 30 Days Of Code - Log
 
-### Day 1: August 31, 2022(Wednesday)
+### Day 1: July 8, 2024
 
-**Today's Progress**: Revise Java Basics, Collection & Map Interface and HashTable concepts.
+**Today's Progress**: 
 
-**Thoughts**: Yeah, this is the good start now ready to enter the CP world.
+**Thoughts**: 
