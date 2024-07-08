@@ -2,8 +2,8 @@
 
 This 30 Days for practice & preparing DSA for Technical Interview I set a goal to solve 5 problems a day = 2 (POTD's) + 3 (DP,Graph)
 
-### Day 1: July 8, 2024
+### Day 1: July 9, 2024
 
-**Today's Progress**: Solved GFG, LC POTD
+**Today's Progress**: 
 
-**Thoughts**: I started the plan in evening 7pm so can't solve any dp/graph problem. Day1 started with excuse but I take first step towards the 5/day challenge
+**Thoughts**: 
