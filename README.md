@@ -4,8 +4,6 @@
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md ) --> failed 
-* [Log - click here to see my progress](log_2024.md ) --> failed
-* [Log - click here to see my progress](log_2024_DSA.md ) --> inProgress
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
